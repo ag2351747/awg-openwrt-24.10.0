@@ -10,7 +10,7 @@ sh <(wget -O - https://raw.githubusercontent.com/Slava-Shchipunov/awg-openwrt/re
 # Сборка пакетов для всех устройств, поддерживающих OpenWRT
 В репозиторий добавлен скрипт, который парсит данные о поддерживаемых платформах со страницы OpenWRT и автоматически запускает сборку пакетов AmneziaWG для всех устройств.
 На данный момент я собрал пакеты для всех устройств для OpenWRT версий:
-1) [[23.05.0]]([(https://github.com/ag2351747/awg-openwrt-24.10.0/releases)](https://github.com/ag2351747/awg-openwrt-24.10.0/releases))
+1) [23.05.0](https://github.com/ag2351747/awg-openwrt-24.10.0/releases)
 
 
 И собрал пакеты для популярных устройств для OpenWRT [SNAPSHOT](https://github.com/Slava-Shchipunov/awg-openwrt/releases/tag/SNAPSHOT)
